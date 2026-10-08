@@ -8,7 +8,9 @@
     "email": "facundo@suplaisales.com",
     "url": "https://suplaisales.com"
   },
-  "homepage": "https://suplaisales.com/claude",
+  "homepage": "https://www.suplaisales.com/claude",
   "repository": "https://github.com/Facu-hub-code/suplai-sales-claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.suplaisales.com/privacidad"
 }
