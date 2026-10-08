@@ -1,0 +1,14 @@
+{
+  "name": "suplai-sales",
+  "displayName": "Suplai Sales",
+  "version": "0.1.0",
+  "description": "Consultá los pedidos anteriores de tu distribuidora desde Claude, con tu usuario del backoffice.",
+  "author": {
+    "name": "Suplai Sales",
+    "email": "facundo@suplaisales.com",
+    "url": "https://suplaisales.com"
+  },
+  "homepage": "https://suplaisales.com/claude",
+  "repository": "https://github.com/Facu-hub-code/suplai-sales-claude-plugin",
+  "license": "MIT"
+}
