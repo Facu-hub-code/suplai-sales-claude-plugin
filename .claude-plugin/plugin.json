@@ -2,7 +2,7 @@
   "name": "suplai-sales",
   "displayName": "Suplai Sales",
   "version": "0.1.0",
-  "description": "Consultá los pedidos y cargá clientes y productos de tu distribuidora desde Claude, con tu usuario del backoffice.",
+  "description": "Consultá pedidos, cargá datos, armá plantillas y agendas, incorporá lo que el ERP ya trajo y creá estrategias de tu distribuidora desde Claude, con tu usuario del backoffice.",
   "author": {
     "name": "Suplai Sales",
     "email": "facundo@suplaisales.com",
