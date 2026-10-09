@@ -1,6 +1,6 @@
 # Suplai Sales para Claude
 
-Este plugin conecta Claude con los pedidos de una distribuidora en Suplai Sales. Un gerente comercial pregunta en lenguaje natural y Claude consulta el historial de pedidos de su cuenta, sin ver otra cartera.
+Este plugin conecta Claude con una distribuidora en Suplai Sales. Un gerente comercial consulta pedidos, carga datos, arma plantillas y agendas, incorpora lo que el ERP ya trajo y crea estrategias, siempre sobre su cuenta. Cada escritura muestra un preview y espera un sí.
 
 El plugin no ejecuta código en tu computadora. Solo apunta al servidor remoto de Suplai. Los datos viajan a `https://mcp.suplaisales.com` y al servidor de autorización `https://api.suplaisales.com`. No se envían a otros destinos.
 
